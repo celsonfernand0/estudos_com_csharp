@@ -1,0 +1,14 @@
+C:\Users\celso\Desktop\App\obj\Debug\net7.0\Aula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\celso\Desktop\App\obj\Debug\net7.0\Aula.AssemblyInfoInputs.cache
+C:\Users\celso\Desktop\App\obj\Debug\net7.0\Aula.AssemblyInfo.cs
+C:\Users\celso\Desktop\App\obj\Debug\net7.0\Aula.csproj.CoreCompileInputs.cache
+C:\Users\celso\Desktop\App\bin\Debug\net7.0\Aula.exe
+C:\Users\celso\Desktop\App\bin\Debug\net7.0\Aula.deps.json
+C:\Users\celso\Desktop\App\bin\Debug\net7.0\Aula.runtimeconfig.json
+C:\Users\celso\Desktop\App\bin\Debug\net7.0\Aula.dll
+C:\Users\celso\Desktop\App\bin\Debug\net7.0\Aula.pdb
+C:\Users\celso\Desktop\App\obj\Debug\net7.0\Aula.dll
+C:\Users\celso\Desktop\App\obj\Debug\net7.0\refint\Aula.dll
+C:\Users\celso\Desktop\App\obj\Debug\net7.0\Aula.pdb
+C:\Users\celso\Desktop\App\obj\Debug\net7.0\Aula.genruntimeconfig.cache
+C:\Users\celso\Desktop\App\obj\Debug\net7.0\ref\Aula.dll

@@ -1,0 +1,14 @@
+C:\Users\celso\Desktop\fibonace\bin\Debug\net7.0\fibonace.exe
+C:\Users\celso\Desktop\fibonace\bin\Debug\net7.0\fibonace.deps.json
+C:\Users\celso\Desktop\fibonace\bin\Debug\net7.0\fibonace.runtimeconfig.json
+C:\Users\celso\Desktop\fibonace\bin\Debug\net7.0\fibonace.dll
+C:\Users\celso\Desktop\fibonace\bin\Debug\net7.0\fibonace.pdb
+C:\Users\celso\Desktop\fibonace\obj\Debug\net7.0\fibonace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\celso\Desktop\fibonace\obj\Debug\net7.0\fibonace.AssemblyInfoInputs.cache
+C:\Users\celso\Desktop\fibonace\obj\Debug\net7.0\fibonace.AssemblyInfo.cs
+C:\Users\celso\Desktop\fibonace\obj\Debug\net7.0\fibonace.csproj.CoreCompileInputs.cache
+C:\Users\celso\Desktop\fibonace\obj\Debug\net7.0\fibonace.dll
+C:\Users\celso\Desktop\fibonace\obj\Debug\net7.0\refint\fibonace.dll
+C:\Users\celso\Desktop\fibonace\obj\Debug\net7.0\fibonace.pdb
+C:\Users\celso\Desktop\fibonace\obj\Debug\net7.0\fibonace.genruntimeconfig.cache
+C:\Users\celso\Desktop\fibonace\obj\Debug\net7.0\ref\fibonace.dll
