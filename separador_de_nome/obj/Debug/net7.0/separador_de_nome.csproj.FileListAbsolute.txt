@@ -1,0 +1,14 @@
+C:\Users\celso\OneDrive\Ambiente de Trabalho\estudos_com_csharp\separador_de_nome\bin\Debug\net7.0\separador_de_nome.exe
+C:\Users\celso\OneDrive\Ambiente de Trabalho\estudos_com_csharp\separador_de_nome\bin\Debug\net7.0\separador_de_nome.deps.json
+C:\Users\celso\OneDrive\Ambiente de Trabalho\estudos_com_csharp\separador_de_nome\bin\Debug\net7.0\separador_de_nome.runtimeconfig.json
+C:\Users\celso\OneDrive\Ambiente de Trabalho\estudos_com_csharp\separador_de_nome\bin\Debug\net7.0\separador_de_nome.dll
+C:\Users\celso\OneDrive\Ambiente de Trabalho\estudos_com_csharp\separador_de_nome\bin\Debug\net7.0\separador_de_nome.pdb
+C:\Users\celso\OneDrive\Ambiente de Trabalho\estudos_com_csharp\separador_de_nome\obj\Debug\net7.0\separador_de_nome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\celso\OneDrive\Ambiente de Trabalho\estudos_com_csharp\separador_de_nome\obj\Debug\net7.0\separador_de_nome.AssemblyInfoInputs.cache
+C:\Users\celso\OneDrive\Ambiente de Trabalho\estudos_com_csharp\separador_de_nome\obj\Debug\net7.0\separador_de_nome.AssemblyInfo.cs
+C:\Users\celso\OneDrive\Ambiente de Trabalho\estudos_com_csharp\separador_de_nome\obj\Debug\net7.0\separador_de_nome.csproj.CoreCompileInputs.cache
+C:\Users\celso\OneDrive\Ambiente de Trabalho\estudos_com_csharp\separador_de_nome\obj\Debug\net7.0\separador_de_nome.dll
+C:\Users\celso\OneDrive\Ambiente de Trabalho\estudos_com_csharp\separador_de_nome\obj\Debug\net7.0\refint\separador_de_nome.dll
+C:\Users\celso\OneDrive\Ambiente de Trabalho\estudos_com_csharp\separador_de_nome\obj\Debug\net7.0\separador_de_nome.pdb
+C:\Users\celso\OneDrive\Ambiente de Trabalho\estudos_com_csharp\separador_de_nome\obj\Debug\net7.0\separador_de_nome.genruntimeconfig.cache
+C:\Users\celso\OneDrive\Ambiente de Trabalho\estudos_com_csharp\separador_de_nome\obj\Debug\net7.0\ref\separador_de_nome.dll

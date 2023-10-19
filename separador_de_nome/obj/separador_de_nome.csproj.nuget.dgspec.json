@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\celso\\OneDrive\\Ambiente de Trabalho\\estudos_com_csharp\\Login\\Login.csproj": {}
+    "C:\\Users\\celso\\OneDrive\\Ambiente de Trabalho\\estudos_com_csharp\\separador_de_nome\\separador_de_nome.csproj": {}
   },
   "projects": {
-    "C:\\Users\\celso\\OneDrive\\Ambiente de Trabalho\\estudos_com_csharp\\Login\\Login.csproj": {
+    "C:\\Users\\celso\\OneDrive\\Ambiente de Trabalho\\estudos_com_csharp\\separador_de_nome\\separador_de_nome.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\celso\\OneDrive\\Ambiente de Trabalho\\estudos_com_csharp\\Login\\Login.csproj",
-        "projectName": "Login",
-        "projectPath": "C:\\Users\\celso\\OneDrive\\Ambiente de Trabalho\\estudos_com_csharp\\Login\\Login.csproj",
+        "projectUniqueName": "C:\\Users\\celso\\OneDrive\\Ambiente de Trabalho\\estudos_com_csharp\\separador_de_nome\\separador_de_nome.csproj",
+        "projectName": "separador_de_nome",
+        "projectPath": "C:\\Users\\celso\\OneDrive\\Ambiente de Trabalho\\estudos_com_csharp\\separador_de_nome\\separador_de_nome.csproj",
         "packagesPath": "C:\\Users\\celso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\celso\\OneDrive\\Ambiente de Trabalho\\estudos_com_csharp\\Login\\obj\\",
+        "outputPath": "C:\\Users\\celso\\OneDrive\\Ambiente de Trabalho\\estudos_com_csharp\\separador_de_nome\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
