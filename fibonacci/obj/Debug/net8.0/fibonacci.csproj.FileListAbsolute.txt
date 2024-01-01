@@ -1,0 +1,15 @@
+C:\Users\celso\Desktop\estudos_com_csharp\fibonacci\bin\Debug\net8.0\fibonacci.exe
+C:\Users\celso\Desktop\estudos_com_csharp\fibonacci\bin\Debug\net8.0\fibonacci.deps.json
+C:\Users\celso\Desktop\estudos_com_csharp\fibonacci\bin\Debug\net8.0\fibonacci.runtimeconfig.json
+C:\Users\celso\Desktop\estudos_com_csharp\fibonacci\bin\Debug\net8.0\fibonacci.dll
+C:\Users\celso\Desktop\estudos_com_csharp\fibonacci\bin\Debug\net8.0\fibonacci.pdb
+C:\Users\celso\Desktop\estudos_com_csharp\fibonacci\obj\Debug\net8.0\fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\celso\Desktop\estudos_com_csharp\fibonacci\obj\Debug\net8.0\fibonacci.AssemblyInfoInputs.cache
+C:\Users\celso\Desktop\estudos_com_csharp\fibonacci\obj\Debug\net8.0\fibonacci.AssemblyInfo.cs
+C:\Users\celso\Desktop\estudos_com_csharp\fibonacci\obj\Debug\net8.0\fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\celso\Desktop\estudos_com_csharp\fibonacci\obj\Debug\net8.0\fibonacci.sourcelink.json
+C:\Users\celso\Desktop\estudos_com_csharp\fibonacci\obj\Debug\net8.0\fibonacci.dll
+C:\Users\celso\Desktop\estudos_com_csharp\fibonacci\obj\Debug\net8.0\refint\fibonacci.dll
+C:\Users\celso\Desktop\estudos_com_csharp\fibonacci\obj\Debug\net8.0\fibonacci.pdb
+C:\Users\celso\Desktop\estudos_com_csharp\fibonacci\obj\Debug\net8.0\fibonacci.genruntimeconfig.cache
+C:\Users\celso\Desktop\estudos_com_csharp\fibonacci\obj\Debug\net8.0\ref\fibonacci.dll
