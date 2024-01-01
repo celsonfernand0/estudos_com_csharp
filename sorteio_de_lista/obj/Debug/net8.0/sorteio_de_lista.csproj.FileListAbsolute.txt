@@ -1,0 +1,15 @@
+C:\Users\celso\Desktop\estudos_com_csharp\sorteio_de_lista\bin\Debug\net8.0\sorteio_de_lista.exe
+C:\Users\celso\Desktop\estudos_com_csharp\sorteio_de_lista\bin\Debug\net8.0\sorteio_de_lista.deps.json
+C:\Users\celso\Desktop\estudos_com_csharp\sorteio_de_lista\bin\Debug\net8.0\sorteio_de_lista.runtimeconfig.json
+C:\Users\celso\Desktop\estudos_com_csharp\sorteio_de_lista\bin\Debug\net8.0\sorteio_de_lista.dll
+C:\Users\celso\Desktop\estudos_com_csharp\sorteio_de_lista\bin\Debug\net8.0\sorteio_de_lista.pdb
+C:\Users\celso\Desktop\estudos_com_csharp\sorteio_de_lista\obj\Debug\net8.0\sorteio_de_lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\celso\Desktop\estudos_com_csharp\sorteio_de_lista\obj\Debug\net8.0\sorteio_de_lista.AssemblyInfoInputs.cache
+C:\Users\celso\Desktop\estudos_com_csharp\sorteio_de_lista\obj\Debug\net8.0\sorteio_de_lista.AssemblyInfo.cs
+C:\Users\celso\Desktop\estudos_com_csharp\sorteio_de_lista\obj\Debug\net8.0\sorteio_de_lista.csproj.CoreCompileInputs.cache
+C:\Users\celso\Desktop\estudos_com_csharp\sorteio_de_lista\obj\Debug\net8.0\sorteio_de_lista.sourcelink.json
+C:\Users\celso\Desktop\estudos_com_csharp\sorteio_de_lista\obj\Debug\net8.0\sorteio_de_lista.dll
+C:\Users\celso\Desktop\estudos_com_csharp\sorteio_de_lista\obj\Debug\net8.0\refint\sorteio_de_lista.dll
+C:\Users\celso\Desktop\estudos_com_csharp\sorteio_de_lista\obj\Debug\net8.0\sorteio_de_lista.pdb
+C:\Users\celso\Desktop\estudos_com_csharp\sorteio_de_lista\obj\Debug\net8.0\sorteio_de_lista.genruntimeconfig.cache
+C:\Users\celso\Desktop\estudos_com_csharp\sorteio_de_lista\obj\Debug\net8.0\ref\sorteio_de_lista.dll

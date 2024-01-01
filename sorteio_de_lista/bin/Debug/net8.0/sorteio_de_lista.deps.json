@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "sorteio_de_lista/1.0.0": {
+        "runtime": {
+          "sorteio_de_lista.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sorteio_de_lista/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
